@@ -1,0 +1,9 @@
+{
+  "Id": [ 1, 2, 3 ],
+  "NAME": [ "Barcelona", "Real Madird", "Atletico Madrid" ],
+  "win": [ 29, 28, 28 ],
+  "draw": [ 4, 6, 4 ],
+  "lose": [ 5, 4, 6 ],
+  "Goal": [ 112, 110, 63 ],
+  "Pts": [ 91, 90, 88 ]
+} 

@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{23C74E58-E42E-4E2F-9958-9CB836DB3404}"
+	ProjectSection(SolutionItems) = preProject
+		CollectionCalc.R = CollectionCalc.R
+		DataTypes.R = DataTypes.R
+		function.R = function.R
+		loop.R = loop.R
+		readfile.R = readfile.R
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Statement keywords", "Statement keywords", "{6C51EF12-4A3F-4DD9-856A-6CA7BA93D2BC}"
+	ProjectSection(SolutionItems) = preProject
+		Selection statements.R = Selection statements.R
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AppData", "AppData", "{9A2C3FC7-E8AF-4D68-812C-60E80F455EDD}"
+	ProjectSection(SolutionItems) = preProject
+		connectionSQLServer.R = connectionSQLServer.R
+		AppData\測試讀檔.csv = AppData\測試讀檔.csv
+		測試讀檔.json = 測試讀檔.json
+		AppData\測試讀檔.xls = AppData\測試讀檔.xls
+		AppData\測試讀檔.xlsx = AppData\測試讀檔.xlsx
+		測試讀檔2.json = 測試讀檔2.json
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6C51EF12-4A3F-4DD9-856A-6CA7BA93D2BC} = {23C74E58-E42E-4E2F-9958-9CB836DB3404}
+		{9A2C3FC7-E8AF-4D68-812C-60E80F455EDD} = {23C74E58-E42E-4E2F-9958-9CB836DB3404}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8954EE5-081D-44AF-8466-4EAD1A5FF1EA}
+	EndGlobalSection
+EndGlobal

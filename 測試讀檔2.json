@@ -1,0 +1,29 @@
+[
+  {
+    "Id": 1,
+    "NAME": "Barcelona",
+    "win": 29,
+    "draw": 4,
+    "lose": 5,
+    "Goal": 112,
+    "Pts": 91
+  },
+  {
+    "Id": 2,
+    "NAME": "Real Madird",
+    "win": 28,
+    "draw": 6,
+    "lose": 4,
+    "Goal": 110,
+    "Pts": 90
+  },
+  {
+    "Id": 3,
+    "NAME": "Atletico Madrid",
+    "win": 28,
+    "draw": 4,
+    "lose": 6,
+    "Goal": 63,
+    "Pts": 88
+  }
+]
