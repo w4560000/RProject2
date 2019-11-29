@@ -10,6 +10,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		function.R = function.R
 		loop.R = loop.R
 		readfile.R = readfile.R
+		SimpleLinearRegression .R = SimpleLinearRegression .R
+		statisticsFunction.R = statisticsFunction.R
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Statement keywords", "Statement keywords", "{6C51EF12-4A3F-4DD9-856A-6CA7BA93D2BC}"
@@ -27,6 +29,18 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AppData", "AppData", "{9A2C
 		測試讀檔2.json = 測試讀檔2.json
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Regression", "Regression", "{8F450916-F2CA-4422-8BF3-3CBE5A43698D}"
+	ProjectSection(SolutionItems) = preProject
+		LogisticRegression.R = LogisticRegression.R
+		SimpleLinearRegression .R = SimpleLinearRegression .R
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Stock", "Stock", "{0DA42A1D-870B-42B6-B814-104B20C6798D}"
+	ProjectSection(SolutionItems) = preProject
+		quantmod.R = quantmod.R
+		Tidyverse.R = Tidyverse.R
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -34,6 +48,8 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{6C51EF12-4A3F-4DD9-856A-6CA7BA93D2BC} = {23C74E58-E42E-4E2F-9958-9CB836DB3404}
 		{9A2C3FC7-E8AF-4D68-812C-60E80F455EDD} = {23C74E58-E42E-4E2F-9958-9CB836DB3404}
+		{8F450916-F2CA-4422-8BF3-3CBE5A43698D} = {23C74E58-E42E-4E2F-9958-9CB836DB3404}
+		{0DA42A1D-870B-42B6-B814-104B20C6798D} = {23C74E58-E42E-4E2F-9958-9CB836DB3404}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F8954EE5-081D-44AF-8466-4EAD1A5FF1EA}

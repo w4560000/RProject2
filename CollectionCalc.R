@@ -57,3 +57,7 @@ df_sub
 #(7)修改欄位名稱colnames 
 colnames(df) <- c("人物名稱", "號碼")
 df
+
+
+seq(1, 15, 2)
+seq(1, 15, by = 2)
